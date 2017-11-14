@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Людмила Гвоздицких](https://up.htmlacademy.ru/javascript/11/user/143385).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Чаругин](https://up.htmlacademy.ru/javascript/11/user/345379).
 
 ---
 
